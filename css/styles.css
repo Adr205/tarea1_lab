@@ -4,6 +4,7 @@ header{
 
 header nav{
     width: 100%;
+    padding: 0 0 0 1rem;
 }
 
 .carousel{
@@ -12,4 +13,37 @@ header nav{
 
 .carousel img{
     height: 90vh;
+}
+
+
+.colss{
+    
+    
+    background-color:  #ccc;
+    
+}
+
+.col{
+    margin: 1rem;
+}
+
+.padding{
+    padding-top: 1rem;
+}
+
+html body{
+    background-color: #eaeaea;
+}
+
+.foto{
+    max-width: 30rem;
+}
+
+.head{
+    
+
+}
+
+.grid-mty{
+    padding: 1rem;
 }
